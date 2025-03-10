@@ -134,7 +134,7 @@ local function VNWB_fake_script() -- GrabKnife.Script
 	local script = Instance.new('Script', GrabKnife)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		game.Players:Chat(">hat me 17228788101")
+		game.Players:Chat(">hat me 17235297506")
 	end)
 end
 coroutine.wrap(VNWB_fake_script)()
